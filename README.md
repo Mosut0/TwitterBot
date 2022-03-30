@@ -8,6 +8,6 @@ Uploads videos and images to twitter account
 
 -Input your personal Twitter App Keys in ```config2.js``` and ```.env``` (**DO NOT SHARE**)
 
--Make your own directory with what you want to upload
+-Make your own directory with what you want to upload.
 
 *NOTE: This bot can only upload images and videos.*
