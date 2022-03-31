@@ -11,3 +11,7 @@ Uploads videos and images to twitter account
 -Make your own directory with what you want to upload.
 
 *NOTE: This bot can only upload images and videos.*
+
+## Follow Me
+
+(https://twitter.com/HoodQuotesBot)
