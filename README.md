@@ -14,4 +14,4 @@ Uploads videos and images to twitter account
 
 ## Follow Me
 
-(https://twitter.com/HoodQuotesBot)
+https://twitter.com/HoodQuotesBot
