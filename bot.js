@@ -93,8 +93,6 @@ const uploadVideo = (client, mediaFilePath) => {
         })
 }
 
-module.exports = { auth, uploadVideo};
-
 function uploadImage(mediaPathFile){
     const imagePath = mediaPathFile;
         b64content = fs.readFileSync( imagePath, { encoding: 'base64' } );
@@ -129,8 +127,6 @@ function uploadImage(mediaPathFile){
         }
     });
 }
-
-
 
 function randomFromArray( array ) {
     return array[ Math.floor( Math.random() * array.length ) ];
